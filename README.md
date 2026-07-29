@@ -435,3 +435,13 @@ If you like our projects:
 </div>
 
 ---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Animation](https://github.com/durjoylabs/durjoylabs/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
