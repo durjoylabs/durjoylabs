@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Durjoy Labs Discussions
+    url: https://github.com/durjoylabs
+    about: Ask questions or start discussions.
+
+  - name: Security Reports
+    url: https://github.com/durjoylabs
+    about: Report security vulnerabilities privately.
