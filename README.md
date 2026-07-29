@@ -148,7 +148,7 @@ Email
 
 # 📧 Contact
 
-official.durjoylabs@gmail.com
+durjoylabs@gmail.com
 
 ---
 
